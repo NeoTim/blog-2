@@ -128,14 +128,14 @@
   </url>
   
   <url>
-    <loc>http://blog.zhangjikai.com/2016/09/13/%E3%80%90%E8%BD%AF%E4%BB%B6%E3%80%91%E4%BD%BF%E7%94%A8-Excel-2016-%E5%92%8C-Visio-2016%E4%BD%9C%E5%9B%BE/</loc>
+    <loc>http://blog.zhangjikai.com/2016/09/13/%E3%80%90%E8%BD%AF%E4%BB%B6%E3%80%91%E8%A7%A3%E5%86%B3-win8-win10-%E4%B8%ADWindows-Meida-Player-%E6%97%A0%E6%B3%95%E6%92%AD%E6%94%BEipv6%E7%9B%B4%E6%92%AD-MMS%E4%B8%B2%E6%B5%81/</loc>
     
     <lastmod>2016-10-10T02:32:31.567Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.zhangjikai.com/2016/09/13/%E3%80%90%E8%BD%AF%E4%BB%B6%E3%80%91%E8%A7%A3%E5%86%B3-win8-win10-%E4%B8%ADWindows-Meida-Player-%E6%97%A0%E6%B3%95%E6%92%AD%E6%94%BEipv6%E7%9B%B4%E6%92%AD-MMS%E4%B8%B2%E6%B5%81/</loc>
+    <loc>http://blog.zhangjikai.com/2016/09/13/%E3%80%90%E8%BD%AF%E4%BB%B6%E3%80%91%E4%BD%BF%E7%94%A8-Excel-2016-%E5%92%8C-Visio-2016%E4%BD%9C%E5%9B%BE/</loc>
     
     <lastmod>2016-10-10T02:32:31.567Z</lastmod>
     
@@ -156,28 +156,7 @@
   </url>
   
   <url>
-    <loc>http://blog.zhangjikai.com/2016/01/25/%E3%80%90OpenMP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
-    
-    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.zhangjikai.com/2016/02/26/%E3%80%90OpenMP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91%E6%9B%B4%E5%A4%9A%E6%8C%87%E4%BB%A4%E5%92%8C%E5%AD%90%E5%8F%A5%E4%BB%8B%E7%BB%8D/</loc>
-    
-    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.zhangjikai.com/2016/01/25/%E3%80%90OpenMP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91%E7%BC%96%E8%AF%91%E5%88%B6%E5%AF%BC%E6%8C%87%E4%BB%A4/</loc>
-    
-    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.zhangjikai.com/2016/04/26/%E3%80%90Pthreads%E3%80%91Pipeline-Model-Assembly-Line-%E7%A4%BA%E4%BE%8B/</loc>
     
     <lastmod>2016-10-10T02:32:31.552Z</lastmod>
     
@@ -191,56 +170,7 @@
   </url>
   
   <url>
-    <loc>http://blog.zhangjikai.com/2015/06/22/%E3%80%90HTML5%E3%80%91%E5%9B%BE%E7%89%87%E9%A2%84%E5%8A%A0%E8%BD%BD/</loc>
-    
-    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.zhangjikai.com/2015/11/30/%E3%80%90MIC%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91Offload-Using-a-Pragma/</loc>
-    
-    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.zhangjikai.com/2015/11/28/%E3%80%90C%E3%80%91alignment/</loc>
-    
-    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.zhangjikai.com/2015/11/30/%E3%80%90MIC%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91Offload-Using-a-Pragma%EF%BC%9Ain-out-inout%E8%AF%A6%E7%BB%86%E7%94%A8%E6%B3%95/</loc>
-    
-    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.zhangjikai.com/2016/03/05/%E3%80%90C%E3%80%91%E8%A7%A3%E6%9E%90%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0--getopt%E5%92%8Cgetopt_long/</loc>
-    
-    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.zhangjikai.com/2015/12/09/%E3%80%90MIC%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91%E5%85%B1%E4%BA%AB%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%E6%A8%A1%E5%BC%8F/</loc>
-    
-    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.zhangjikai.com/2015/11/29/%E3%80%90MIC%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91HelloWorld/</loc>
-    
-    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.zhangjikai.com/2016/03/04/%E3%80%90C%E3%80%91%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C(%E4%BA%8C)/</loc>
     
     <lastmod>2016-10-10T02:32:31.552Z</lastmod>
     
@@ -254,7 +184,35 @@
   </url>
   
   <url>
+    <loc>http://blog.zhangjikai.com/2016/04/26/%E3%80%90Pthreads%E3%80%91Pipeline-Model-Assembly-Line-%E7%A4%BA%E4%BE%8B/</loc>
+    
+    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.zhangjikai.com/2015/06/22/%E3%80%90HTML5%E3%80%91%E5%9B%BE%E7%89%87%E9%A2%84%E5%8A%A0%E8%BD%BD/</loc>
+    
+    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.zhangjikai.com/2016/02/26/%E3%80%90OpenMP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91%E4%B8%8E%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83%E4%BA%A4%E4%BA%92/</loc>
+    
+    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.zhangjikai.com/2016/03/04/%E3%80%90C%E3%80%91%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C(%E4%BA%8C)/</loc>
+    
+    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.zhangjikai.com/2015/12/09/%E3%80%90MIC%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91%E5%85%B1%E4%BA%AB%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%E6%A8%A1%E5%BC%8F/</loc>
     
     <lastmod>2016-10-10T02:32:31.552Z</lastmod>
     
@@ -268,7 +226,49 @@
   </url>
   
   <url>
+    <loc>http://blog.zhangjikai.com/2016/03/05/%E3%80%90C%E3%80%91%E8%A7%A3%E6%9E%90%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0--getopt%E5%92%8Cgetopt_long/</loc>
+    
+    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.zhangjikai.com/2015/11/30/%E3%80%90MIC%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91Offload-Using-a-Pragma%EF%BC%9Ain-out-inout%E8%AF%A6%E7%BB%86%E7%94%A8%E6%B3%95/</loc>
+    
+    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.zhangjikai.com/2015/11/28/%E3%80%90C%E3%80%91alignment/</loc>
+    
+    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.zhangjikai.com/2015/11/29/%E3%80%90MIC%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91HelloWorld/</loc>
+    
+    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.zhangjikai.com/2016/02/26/%E3%80%90OpenMP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91%E6%9B%B4%E5%A4%9A%E6%8C%87%E4%BB%A4%E5%92%8C%E5%AD%90%E5%8F%A5%E4%BB%8B%E7%BB%8D/</loc>
+    
+    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.zhangjikai.com/2015/12/15/%E3%80%90C%E3%80%91%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/</loc>
+    
+    <lastmod>2016-10-10T02:32:31.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.zhangjikai.com/2016/01/25/%E3%80%90OpenMP%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%91%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
     
     <lastmod>2016-10-10T02:32:31.552Z</lastmod>
     
