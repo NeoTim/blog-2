@@ -456,7 +456,7 @@
 <li><code>__m512i</code> - 处理整形向量, 包括32位和64位整形(int32/int64)
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2015/12/27/【MIC学习笔记】向量化/#далее" rel="contents">
+            <a class="btn" href="/2015/12/27/【MIC学习笔记】向量化/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -643,7 +643,7 @@
           <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>本文中所使用的IDEA版本为14.1.1, 所使用测试项目为sping mvc的一个最简单的示例, 可以在<a href="http://download.csdn.net/detail/zhangjk1993/9378641">这里</a>下载示例代码<br>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2015/12/26/【软件】Intellij-IDEA-14-导入maven-web项目并发布到Tomcat/#далее" rel="contents">
+            <a class="btn" href="/2015/12/26/【软件】Intellij-IDEA-14-导入maven-web项目并发布到Tomcat/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -841,7 +841,7 @@
 <p>文件成功打开会返回一个’FILE’类型的指针, 如果打开失败, 会返回一个空指针, 并把错误代码存在<code>errno</code>中.<br>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2015/12/15/【C】文件操作/#далее" rel="contents">
+            <a class="btn" href="/2015/12/15/【C】文件操作/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1030,7 +1030,7 @@
 <figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">pragma</span> offload_wait target(mic:0) wait(&amp;signal_var)</span></div></pre></td></tr></table></figure>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2015/12/09/【MIC学习笔记】CPU和MIC异步计算及数据传输/#далее" rel="contents">
+            <a class="btn" href="/2015/12/09/【MIC学习笔记】CPU和MIC异步计算及数据传输/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1217,7 +1217,7 @@
           <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>使用#pragma offload target(mic) 方式将程序分载到MIC上计算是比较常用的方式, 但是这种方式只支持一维指针, 如果有较为复杂的数据结构, 比如二维指针, 树, 链表等结构则需要将这些数据结构转换为一维结构(如果可以), 否则不能将数据传到MIC上去. 为了满足复杂的数据结构, mic提供了共享虚拟内存的方式, 即将mic的内存和cpu的内存看做共享同一块虚拟内存, 在共享内存中的数据被cpu和mic共享, 不需要使用offload将数据在cpu和mic之间相互传递.<br>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2015/12/09/【MIC学习笔记】共享虚拟内存模式/#далее" rel="contents">
+            <a class="btn" href="/2015/12/09/【MIC学习笔记】共享虚拟内存模式/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1404,7 +1404,7 @@
           <h2 id="into"><a href="#into" class="headerlink" title="into"></a>into</h2><p>使用into可以将一个变量的值上传到另外一个变量中, 比如<code>in (a into(b))</code>, 表示将CPU上变量a的值赋给MIC上的变量b, 也可以<code>out(b into(c))</code> 将MIC上变量b的值传回给CPU上的变量c. 需要注意的地方是into 只能用于in或者out中, 不能用于inout或者nocopy中. 下面是使用示例:<br>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2015/12/08/【MIC学习笔记】记录几个用法/#далее" rel="contents">
+            <a class="btn" href="/2015/12/08/【MIC学习笔记】记录几个用法/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1591,7 +1591,7 @@
           <p>下面的代码主要使用in作为测试, out和inout的用法应该是类似的， 下面主要以代码为主， 并且附带执行结果。<br>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2015/11/30/【MIC学习笔记】Offload-Using-a-Pragma：in-out-inout详细用法/#далее" rel="contents">
+            <a class="btn" href="/2015/11/30/【MIC学习笔记】Offload-Using-a-Pragma：in-out-inout详细用法/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1780,7 +1780,7 @@
 <p>其中<code>__declspec</code>可以用于windows或者linux系统, 而<code>_attribute__</code>只能用于linux.<br>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2015/11/30/【MIC学习笔记】Offload-Using-a-Pragma/#далее" rel="contents">
+            <a class="btn" href="/2015/11/30/【MIC学习笔记】Offload-Using-a-Pragma/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1970,7 +1970,7 @@
 </blockquote>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2015/11/29/【MIC学习笔记】HelloWorld/#далее" rel="contents">
+            <a class="btn" href="/2015/11/29/【MIC学习笔记】HelloWorld/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -2157,7 +2157,7 @@
           <h2 id="内存访问粒度"><a href="#内存访问粒度" class="headerlink" title="内存访问粒度"></a>内存访问粒度</h2><p>如果没有深入的了解内存方面的东西, 我们可能会认为内存不过是简单的字节数组, 例如下面的形式<br><img src="/images/align/align_01.jpg" alt="程序员怎么看待内存"><br>但是实际上, 计算机的处理器并不是以单个字节块为单位读写内存, 而是以2个,4个,8个,甚至16或者32个字节块为单位读写内存,如下图所示 我们将处理器访问内存单元的大小叫做其内存访问的粒度.<br><img src="/images/align/align_02.jpg" alt="计算机如何看待内存"><br>知道上面这一点很重要, 这也是C语言alignment的基础.<br>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2015/11/28/【C】alignment/#далее" rel="contents">
+            <a class="btn" href="/2015/11/28/【C】alignment/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>

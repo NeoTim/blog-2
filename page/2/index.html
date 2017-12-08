@@ -451,7 +451,7 @@
 <li>打开控制面板，选择 <code>程序</code><br><img src="/images/mms/01.jpg" alt="">
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2016/09/13/【软件】解决-win8-win10-中Windows-Meida-Player-无法播放ipv6直播-MMS串流/#далее" rel="contents">
+            <a class="btn" href="/2016/09/13/【软件】解决-win8-win10-中Windows-Meida-Player-无法播放ipv6直播-MMS串流/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -638,7 +638,7 @@
           <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>Pthreads 有几种工作模型，例如 Boss/Workder Model、Pileline Model(Assembly Line)、Background Task Model、Interface/Implementation Model，详细介绍可以参考 <a href="http://homes.di.unimi.it/~boccignone/GiuseppeBoccignone_webpage/MatDidatSOD2009_files/pthread-Tutorial.pdf">pthread Tutorial</a>，这里给出一个流水线模型(Pipeline Model)的简单示例。在该示例中，主线程开启了两个子线程，一个子线程用来读取文件，一个子线程用于将结果写入文件，而主线程自身用来计算。<br>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2016/04/26/【Pthreads】Pipeline-Model-Assembly-Line-示例/#далее" rel="contents">
+            <a class="btn" href="/2016/04/26/【Pthreads】Pipeline-Model-Assembly-Line-示例/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -825,7 +825,7 @@
           <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>与OpenMP相比，Pthreads的使用相对要复杂一些，需要我们显式的创建、管理、销毁线程，但也正因为如此，我们对于线程有更强的控制，可以更加灵活的使用线程。这里主要记录一下Pthreads的基本使用方法，如果不是十分复杂的使用环境，这些知识应该可以了。本文大部分内容都是参考自<a href="http://homes.di.unimi.it/~boccignone/GiuseppeBoccignone_webpage/MatDidatSOD2009_files/pthread-Tutorial.pdf">这里</a>，有兴趣的可以看一下原文。</p>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2016/04/25/【Pthreads学习笔记】基本使用/#далее" rel="contents">
+            <a class="btn" href="/2016/04/25/【Pthreads学习笔记】基本使用/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1013,7 +1013,7 @@
 <h2 id="getopt"><a href="#getopt" class="headerlink" title="getopt"></a>getopt</h2><p>getopt主要用来处理短命令行选项, 例如<code>./test -v</code>中<code>-v</code>就是一个短选项. 使用该函数需要引入头文件<code>&lt;unistd.h&gt;</code>, 下面是该函数的定义<br><figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">int</span> <span class="title">getopt</span><span class="params">(<span class="keyword">int</span> argc, <span class="keyword">char</span> * <span class="keyword">const</span> argv[], <span class="keyword">const</span> <span class="keyword">char</span> * optstring)</span></span>;</div></pre></td></tr></table></figure></p>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2016/03/05/【C】解析命令行参数--getopt和getopt_long/#далее" rel="contents">
+            <a class="btn" href="/2016/03/05/【C】解析命令行参数--getopt和getopt_long/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1212,7 +1212,7 @@
 </ul>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2016/03/04/【C】文件操作(二)/#далее" rel="contents">
+            <a class="btn" href="/2016/03/04/【C】文件操作(二)/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1399,7 +1399,7 @@
           <h2 id="指令"><a href="#指令" class="headerlink" title="指令"></a>指令</h2><h3 id="flush"><a href="#flush" class="headerlink" title="flush"></a>flush</h3><p>flush指令主要用于处理内存一致性问题. 每个处理器(processor)都有自己的本地(local)存储单元:寄存器和缓存, 当一个线程更新了共享变量之后, 新的值会首先存储到寄存器中, 然后更新到本地缓存中. 这些更新并非立刻就可以被其他线程得知, 因此在其它处理器中运行的线程不能访问这些存储单元. 如果一个线程不知道这些更新而使用共享变量的旧值就行运算, 就可能会得到错误的结果.<br>通过使用flush指令, 可以保证线程读取到的共享变量的最新值. 下面是语法形式:<br><figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">pragma</span> omp flush[(list)]</span></div></pre></td></tr></table></figure></p>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2016/02/26/【OpenMP学习笔记】更多指令和子句介绍/#далее" rel="contents">
+            <a class="btn" href="/2016/02/26/【OpenMP学习笔记】更多指令和子句介绍/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1593,7 +1593,7 @@
 </ul>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2016/02/26/【OpenMP学习笔记】与运行环境交互/#далее" rel="contents">
+            <a class="btn" href="/2016/02/26/【OpenMP学习笔记】与运行环境交互/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1788,7 +1788,7 @@
 </ul>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2016/02/01/【应用】在线文件管理/#далее" rel="contents">
+            <a class="btn" href="/2016/02/01/【应用】在线文件管理/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -1975,7 +1975,7 @@
           <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>OpenMP通过在串行程序中插入编译制导指令, 来实现并行化, 支持OpenMP的编译器可以识别, 处理这些指令并实现对应的功能. 所有的编译制导指令都是以<code>#pragma omp</code>开始, 后面跟具体的功能指令(directive)或者命令.  一般格式如下所示:<br><figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">pragma</span> omp directive [clause [[,] clause]...]</span></div><div class="line">    structured block</div></pre></td></tr></table></figure></p>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2016/01/25/【OpenMP学习笔记】编译制导指令/#далее" rel="contents">
+            <a class="btn" href="/2016/01/25/【OpenMP学习笔记】编译制导指令/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
@@ -2162,7 +2162,7 @@
           <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>OpenMP 是基于共享内存模式的一种并行编程模型, 使用十分方便, 只需要串行程序中加入OpenMP预处理指令, 就可以实现串行程序的并行化. 这里主要进行一些学习记录, 使用的书籍为: <a href="http://download.csdn.net/detail/zhangjk1993/9416811">Using OpenMP: Portable Shared Memory Parallel Programming</a> 和<a href="http://download.csdn.net/detail/zhangjk1993/9417153">OpenMP编译原理及实现技术</a><br>
           <!--noindex-->
           <div class="post-button text-center">
-            <a class="btn" href="/2016/01/25/【OpenMP学习笔记】基本使用/#далее" rel="contents">
+            <a class="btn" href="/2016/01/25/【OpenMP学习笔记】基本使用/#more" rel="contents">
               阅读全文 &raquo;
             </a>
           </div>
